@@ -28,7 +28,7 @@ app.post("/send", async (req, res) => {
     
     <!-- Header -->
     <div style="background-color: #111; padding: 20px 20px 10px; text-align: center;">
-      <h1 style="margin: 0; font-size: 26px; color: #64ffda;">𝕄𝕚𝕔𝕙𝕒𝕖𝕝 ℂ𝕙𝕦𝕜𝕨𝕦</h1>
+      <h1 style="margin: 0; font-size: 26px; color: #64ffda;">𝕮.𝕮.𝕸𝖎𝖈𝖍𝖆𝖊𝖑</h1>
       <p style="margin: 0; color: #bbb;">Portfolio Contact Notification</p>
     </div>
 
